@@ -74,3 +74,5 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 UntitledGroupGame/Intermediate/
 UntitledGroupGame/Saved/
+Imperium/Saved/Autosaves/Game/UI/CharGen/UMG_CharacterCreation_Auto0.uasset
+Imperium/Saved/
